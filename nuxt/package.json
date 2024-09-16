@@ -22,6 +22,6 @@
     "caniuse-lite": "^1.0.30001431",
     "cypress": "^10.11.0",
     "postcss": "8.4.19",
-    "start-server-and-test": "^1.14.0"
+    "start-server-and-test": "^2.0.8"
   }
 }
