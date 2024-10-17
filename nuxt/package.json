@@ -11,17 +11,17 @@
     "test:e2e": "start-server-and-test dev http://localhost:3000 'npx cypress run'"
   },
   "dependencies": {
-    "core-js": "3.26.1",
-    "druxt-layout-paragraphs": "^0.3.0",
-    "druxt-site": "0.14.0",
+    "core-js": "3.38.1",
+    "druxt-layout-paragraphs": "^0.4.1",
+    "druxt-site": "0.14.3",
     "nuxt": "2.15.8",
-    "vue-server-renderer": "2.7.14"
+    "vue-server-renderer": "2.7.16"
   },
   "devDependencies": {
     "@nuxtjs/storybook": "^4.3.2",
-    "caniuse-lite": "^1.0.30001431",
+    "caniuse-lite": "^1.0.30001669",
     "cypress": "^10.11.0",
     "postcss": "8.4.19",
-    "start-server-and-test": "^1.14.0"
+    "start-server-and-test": "^1.15.4"
   }
 }
