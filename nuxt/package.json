@@ -14,7 +14,7 @@
     "core-js": "3.26.1",
     "druxt-layout-paragraphs": "^0.3.0",
     "druxt-site": "0.14.0",
-    "nuxt": "2.15.8",
+    "nuxt": "3.21.7",
     "vue-server-renderer": "2.7.14"
   },
   "devDependencies": {
